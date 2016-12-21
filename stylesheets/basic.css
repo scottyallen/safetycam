@@ -1,9 +1,9 @@
 body {
   display: block;
   margin: 0;
-  background: #fff url('camerahand2.jpg') fixed;
-  background-position: bottom right;
-  background-size: contain;
+  background: #fff url('whitecamera.jpg') fixed;
+  background-position: center right;
+  background-size: cover;
   background-repeat: no-repeat;
 }
 /*video#maya {
